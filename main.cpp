@@ -3,6 +3,7 @@ using namespace std;
 const int NUM_ROW = 800;
 const int NUM_COL = 800;
 const int SIZE = 25;
+//enum controlling direction
 enum Direction {UP,DOWN,LEFT,RIGHT};
 
 
