@@ -22,6 +22,7 @@ void printChar(SDL_Plotter& g, characterPrint& character, int numIterations, int
 void fileOpen(characterPrint& character, string fileName, int it){
     
     character.inSS.open(fileName);
+    //checks if file successful
     if(it == 0) {
     character.inSS >> character.fstreamx;
     character.inSS >> character.fstreamy;
