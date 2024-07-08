@@ -22,9 +22,11 @@ public:
     int numIterations = 0;
 };
 //CLASS RELATED TO UPDATING SCORE;
+
 class score{
 public:
     int highScore;
+    //number of digits
     int hsDigit1;
     int hsDigit2;
     int currScore;
