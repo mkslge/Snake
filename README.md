@@ -3,13 +3,19 @@ Welcome to the Snake Game project! This is a modern take on the classic Snake ga
 
 Features
 Classic Gameplay: Navigate the snake to eat food, grow longer, and avoid colliding with walls or itself.
+
 Responsive Controls: Smooth and intuitive keyboard controls for precise snake movement.
+
 Dynamic Game Elements: Random food generation and increasing difficulty as the snake grows.
+
 Sound Effects: Integrated sound effects for key actions like food consumption and snake collision.
+
 Scoring System: Tracks current and high scores, displayed in real-time during gameplay.
+
 Game Save Functionality: Save and load game scores to resume progress between sessions.
+
 Custom Font Rendering: In-game text is rendered with custom fonts for a polished look.
-Screenshots
+
 Below are some screenshots showcasing the Snake Game in action:
 
 <img width="997" alt="Screen Shot 2024-09-01 at 9 18 21 AM" src="https://github.com/user-attachments/assets/70c302a5-5f25-4a7d-b190-652e58bcaf68">
@@ -26,7 +32,7 @@ Below are some screenshots showcasing the Snake Game in action:
 
 
 Accessing the Source Code
-The source code for this project is public and available in this repository. Feel free to explore, modify, and contribute to the code!
+The source code for this project is public and available in this repository.
 
 Getting Started
 Clone the Repository: git clone <repository-url>
