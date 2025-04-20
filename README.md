@@ -1,20 +1,22 @@
-Snake Game
-Welcome to the Snake Game project! This is a modern take on the classic Snake game, developed using C++ and SDL. The game features responsive controls, dynamic gameplay, and engaging sound effects to enhance the gaming experience.
+# Snake Game
 
-Features
-Classic Gameplay: Navigate the snake to eat food, grow longer, and avoid colliding with walls or itself.
+This is a modern take on the classic Snake game, developed using C++ and SDL2. The game features responsive controls, dynamic gameplay, and engaging sound effects to enhance the gaming experience.
 
-Responsive Controls: Smooth and intuitive keyboard controls for precise snake movement.
+---
 
-Dynamic Game Elements: Random food generation and increasing difficulty as the snake grows.
+## 🎮 Features
 
-Sound Effects: Integrated sound effects for key actions like food consumption and snake collision.
+- **Classic Gameplay**: Navigate the snake to eat food, grow longer, and avoid colliding with walls or itself.
+- **Responsive Controls**: Smooth and intuitive keyboard controls for precise snake movement.
+- **Dynamic Game Elements**: Random food generation and increasing difficulty as the snake grows.
+- **Sound Effects**: Integrated sound effects for key actions like food consumption and snake collision.
+- **Scoring System**: Tracks current and high scores, displayed in real-time during gameplay.
+- **Game Save Functionality**: Save and load game scores to resume progress between sessions.
+- **Custom Font Rendering**: In-game text is rendered with custom fonts for a polished look.
 
-Scoring System: Tracks current and high scores, displayed in real-time during gameplay.
+---
 
-Game Save Functionality: Save and load game scores to resume progress between sessions.
-
-Custom Font Rendering: In-game text is rendered with custom fonts for a polished look.
+## 📸 Screenshots
 
 Below are some screenshots showcasing the Snake Game in action:
 
@@ -26,17 +28,16 @@ Below are some screenshots showcasing the Snake Game in action:
 
 <img width="1000" alt="Screen Shot 2024-09-01 at 9 23 50 AM" src="https://github.com/user-attachments/assets/6c5d96c9-7e3d-49d6-a398-e98f577fee99">
 
+---
 
+## 🛠️ Accessing the Source Code
 
-
-
-
-Accessing the Source Code
 The source code for this project is public and available in this repository.
 
-Getting Started
-Clone the Repository: git clone <repository-url>
-Compile the Code: Use your preferred C++ IDE or command line tools to compile the source files.
-Run the Game: Execute the compiled binary to start playing the Snake Game.
-Contact
-If you have any questions or need further assistance, feel free to reach out via email at marklseeliger@gmail.com.
+---
+
+## 🚀 Getting Started
+
+1. **Clone the Repository**  
+   ```bash
+   git clone github.com/mkslge/Snake
